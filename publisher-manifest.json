@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "1025abf3710bdb0f680ef253",
+  "owner": "qtygwkgvm",
+  "repo": "page-8fa1ad57bebd183029cbe22b",
+  "title": "clash verge服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8fa1ad57bebd183029cbe22b",
+      "a": "V2Tun",
+      "b": "clash verge服务商官网",
+      "entity": "V2Tun",
+      "brand": "clash verge服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dcda4d67030e879b9674b5d5fb5772d1dac12ad61dbcfd31eb30afca48c9d261",
+      "content": {
+        "primary_entity": "V2Tun",
+        "keyword1": "V2Tun",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Clash Verge、Clash Verge Rev、Shadowrocket、v2rayNG、Clash for Windows、OpenWrt 等客户端中选择与设备匹配的版本，导入 V2Tun 订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按设备流量与预算选定套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选定 V2Tun 套餐",
+          "AI_DESCRIPTION": "，覆盖 Clash Verge、Clash Verge Rev、Shadowrocket、v2rayNG、Clash for Windows、OpenWrt 等客户端，配合基础版、旗舰版、团队版满足个人、小型团队到多设备场景。",
+          "AI_FEATURES_INTRO": "从套餐梯度、设备数量和订阅周期三个角度快速判断适合自己的 V2Tun 方案。",
+          "AI_FEATURES_TITLE": "V2Tun 特点概览",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，流量从 100GB 到 1000GB 逐级提升。",
+          "AI_FEATURE_TEXT_2": "设备数量分别支持 3 台、5 台、20 台同时在线，可覆盖手机、电脑与路由器。",
+          "AI_FEATURE_TEXT_3": "按年付分别仅需 ¥150、¥350、¥850，长期使用比按月支付更划算。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配、按客户端文档导入订阅，三步即可开始使用 V2Tun。",
+          "AI_GUIDE_TITLE": "V2Tun 使用步骤",
+          "AI_HERO_INTRO": "V2Tun 提供基础版、旗舰版与团队版三档方案，以满足手机、电脑、路由器等不同设备数量的使用需求。",
+          "AI_HERO_SUBTITLE": "多设备使用的加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "每月 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_3": "按年付低至 ¥150 起",
+          "AI_PLANS_INTRO": "基础版适合轻度个人使用，旗舰版覆盖多设备流媒体与游戏场景，团队版提供更高带宽与专属节点。",
+          "AI_PLANS_TITLE": "V2Tun 套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认常用客户端是否支持当前设备，如 Clash Verge 用于桌面端、Shadowrocket 用于 iOS。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅地址，按客户端文档完成配置并连接节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "V2Tun 套餐与客户端选择",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，每月 100GB 流量和 3 台设备；旗舰版提供 300GB 和 5 台设备，并带 IPLC 专线；团队版支持 20 台设备和 1000GB 流量，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "V2Tun 在 Windows、macOS、Android 和 iOS 上均提供配置文档。不同客户端导入订阅后即可使用，具体步骤可参考各客户端的订阅导入说明。",
+          "AI_FAQ_ANSWER_3": "套餐以月付和年付两种周期计费，年付相当于用十个月的价格获得十二个月服务。团队版年付为 850 元，旗舰版年付为 350 元，基础版年付为 150 元。",
+          "AI_FAQ_ANSWER_4": "可以。同一订阅可在多台设备上使用，但同时在线的设备数量受套餐限制。基础版最多 3 台，旗舰版 5 台，团队版 20 台，超出限制时部分设备会被挤下线。",
+          "AI_FAQ_ANSWER_5": "选择月付可以先体验线路速度和稳定性，确认满足日常使用后再升级年付。高频使用者或需要流媒体和游戏加速的用户，直接选旗舰版年付更合适。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "V2Tun 支持哪些客户端和设备？",
+          "AI_FAQ_QUESTION_3": "套餐的计费周期怎么算？",
+          "AI_FAQ_QUESTION_4": "一个订阅可以在多台设备上同时使用吗？",
+          "AI_FAQ_QUESTION_5": "我应该选择月付还是年付？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fb3c4e72275c683da649f6686b6099836ae41a440f363bb8f424d26583e5f79f",
+    "sitemap.xml": "e3d417b3f3612cdd71da5b803869c6843ccb0d9a6ea295888b6e853e3debc102",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "4605e126215c8dde7ab2199252018d69ad3488d1806923976f0b42d96283dc23"
+}
